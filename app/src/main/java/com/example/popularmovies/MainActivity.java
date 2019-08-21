@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
     GridLayoutManager gridLayoutManager;
     ProgressBar progressBar;
     List<Movies> movies;
-    private static final String MyKey = "f20b6998a176ffe5dd20c219fccb0ea7";
+    private static final String MyKey = "Your's Key!!!";
     public Call <MoviesRespons>call;
     public  int popular ;
 
